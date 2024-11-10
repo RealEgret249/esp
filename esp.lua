@@ -26,5 +26,5 @@ while true do
         highlightPlayer(player)
     end
     -- Wait for 1 second before updating again
-    wait(1)
+    wait(5)
 end
