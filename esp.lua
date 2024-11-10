@@ -14,7 +14,7 @@ local function highlightPlayer(player)
             highlight.FillColor = Color3.fromRGB(255, 255, 0)  -- Yellow highlight color
             highlight.OutlineColor = Color3.fromRGB(0, 0, 0)   -- Black outline color
             highlight.FillTransparency = 0.5                    -- Semi-transparent fill
-            highlight.OutlineTransparency = 0                   -- Solid outline
+            highlight.OutlineTransparency =  0                 -- Solid outline
         end
     end
 end
